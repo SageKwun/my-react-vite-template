@@ -10,6 +10,8 @@
     "lint:fix": "eslint --ext .js,.jsx src --fix"
   },
   "dependencies": {
+    "antd": "^4.19.5",
+    "axios": "^0.26.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },
@@ -19,6 +21,7 @@
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-react": "^7.29.4",
     "husky": "^7.0.4",
+    "less": "^4.1.2",
     "lint-staged": "^12.3.7",
     "prettier": "2.6.2",
     "stylelint": "^14.6.1",
